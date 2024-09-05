@@ -1,0 +1,15 @@
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\bin\Debug\net8.0\Tabla de multiplicacion.exe
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\bin\Debug\net8.0\Tabla de multiplicacion.deps.json
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\bin\Debug\net8.0\Tabla de multiplicacion.runtimeconfig.json
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\bin\Debug\net8.0\Tabla de multiplicacion.dll
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\bin\Debug\net8.0\Tabla de multiplicacion.pdb
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\Tabla de multiplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\Tabla de multiplicacion.AssemblyInfoInputs.cache
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\Tabla de multiplicacion.AssemblyInfo.cs
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\Tabla de multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\Tabla de multiplicacion.sourcelink.json
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\Tabla de multiplicacion.dll
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\refint\Tabla de multiplicacion.dll
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\Tabla de multiplicacion.pdb
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\Tabla de multiplicacion.genruntimeconfig.cache
+C:\Users\stive\Desktop\Nueva carpeta\my-practice-projects\C#\Tabla de multiplicacion\obj\Debug\net8.0\ref\Tabla de multiplicacion.dll

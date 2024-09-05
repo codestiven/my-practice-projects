@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tabla de multiplicacion/1.0.0": {
+        "runtime": {
+          "Tabla de multiplicacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabla de multiplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
