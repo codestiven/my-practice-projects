@@ -1,0 +1,7 @@
+C:\Users\stive\Documents\clase_persona(reto2)\bin\Debug\clase_persona(reto2).exe.config
+C:\Users\stive\Documents\clase_persona(reto2)\bin\Debug\clase_persona(reto2).exe
+C:\Users\stive\Documents\clase_persona(reto2)\bin\Debug\clase_persona(reto2).pdb
+C:\Users\stive\Documents\clase_persona(reto2)\obj\Debug\clase_persona(reto2).csproj.AssemblyReference.cache
+C:\Users\stive\Documents\clase_persona(reto2)\obj\Debug\clase_persona(reto2).csproj.CoreCompileInputs.cache
+C:\Users\stive\Documents\clase_persona(reto2)\obj\Debug\clase_persona(reto2).exe
+C:\Users\stive\Documents\clase_persona(reto2)\obj\Debug\clase_persona(reto2).pdb
