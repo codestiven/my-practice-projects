@@ -1,21 +1,5 @@
 function organizeInventory(inventory) {
-    let organized = {}; // Objeto para almacenar los datos organizados
-
-    inventory.forEach(({ name, quantity, category }) => {
-        // Si la categoría no existe, la creamos
-        if (!organized[category]) {
-            organized[category] = {};
-        }
-
-        // Si el juguete ya está en la categoría, sumamos su cantidad
-        if (organized[category][name]) {
-            organized[category][name] += quantity;
-        } else {
-            organized[category][name] = quantity;
-        }
-    });
-
-    return organized;
+    let organized = {};
 }
 
 
